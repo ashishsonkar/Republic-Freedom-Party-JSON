@@ -96,6 +96,7 @@
 		{
 			"header":["image/logo.svg","REPUBLIC FREEDOM PARTY"],
 			"nav":["HOME","ABOUT","MISSION","STORIES","BLOG","CONTACT","<i class='fa-solid fa-user'></i>"],
+			"navLink":["index.html","about.html","mission.html","stories.html","blog.html","contact.html","#"],
 			"section":"ABOUT US"
 		},
 		{
@@ -153,6 +154,7 @@
 		{
 			"header":["image/logo.svg","REPUBLIC FREEDOM PARTY"],
 			"nav":["HOME","ABOUT","MISSION","STORIES","BLOG","CONTACT","<i class='fa-solid fa-user'></i>"],
+			"navLink":["index.html","about.html","mission.html","stories.html","blog.html","contact.html","#"],
 			"section":"OUR MISSION"
 		},
 		{
@@ -196,6 +198,7 @@
 		{
 			"header":["image/logo.svg","REPUBLIC FREEDOM PARTY"],
 			"nav":["HOME","ABOUT","MISSION","STORIES","BLOG","CONTACT","<i class='fa-solid fa-user'></i>"],
+			"navLink":["index.html","about.html","mission.html","stories.html","blog.html","contact.html","#"],
 			"section":"REPUBLIC FREEDOM PARTY STORY"
 		},
 		{
@@ -229,6 +232,7 @@
 		{
 			"header":["image/logo.svg","REPUBLIC FREEDOM PARTY"],
 			"nav":["HOME","ABOUT","MISSION","STORIES","BLOG","CONTACT","<i class='fa-solid fa-user'></i>"],
+			"navLink":["index.html","about.html","mission.html","stories.html","blog.html","contact.html","#"],
 			"section":"REPUBLIC FREEDOM PARTY '<br>' BLOG"
 		},
 		{
