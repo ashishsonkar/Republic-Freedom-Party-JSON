@@ -1,0 +1,249 @@
+{
+	"indexPage":
+	[
+		{
+			"header":["image/logo.svg","REPUBLIC FREEDOM PARTY"],
+			"nav":["HOME","ABOUT","MISSION","STORIES","BLOG","CONTACT","<i class='fa-solid fa-user'></i>"],
+			"section":["WE ARE THE","image/logo.svg","FREEDOM STARTS WITH YOU"]
+		},
+		{
+			"heading":"A LITTLE BIT ABOUT REPUBLIC FREEDOM PARTY",
+			"para1":"<b>Republic Freedom Party (RFP)</b> We believe in the ideals of our founding fathers like <b>Thomas Jefferson</b> whose ideals are expressed in the deceleration of independence where he said",
+			"para2":"“We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty the pursuit of Happiness. That to secure these rights, Governments are among Men deriving their just powers from the consent of the governed.”",
+			"para3":"This ideal is echoed in the United States Constitution, The bill of rights, and in the immortal words of Abraham Lincoln in his Gettysburg Address during this nations civil war",
+			"para4":"“The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us -- that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion -- that we here highly resolve that these dead shall not have died in vain -- that this nation, under God, shall have a new birth of freedom -- and that government of the people, by the people, for the people, shall not perish from the earth.”",
+			"para5":"” We the patriotic members of the<b> Republic Freedom Party</b> stand devoted to defend these ideals. We believe in freedom, free speech, the second amendment and the constitution as written. We believe that free thought, different ideas, conversation and debate further the cause of a free society and democracy. We do not discriminate. We reject hate and bigotry."
+		},
+		{
+			"cardHeading":["ELECTION","ISSUES","DONATION"],
+			"cardHover":{
+			"cardHeading":["ELECTION","ISSUES","DONATION"],
+			"cardPara":["Rapidiously integrate plug-and-play channels rather than cost effective ideas.","Rapidiously integrate plug-and-play channels rather than cost effective ideas.","Rapidiously integrate plug-and-play channels rather than cost effective ideas."],
+			"cardLink":["Learn More","Learn More","Donate Now"]
+		}
+		},
+		{
+			"carousel":{
+			"itemActive":["<i class='fa-solid fa-quote-left'></i>","“A free people ought not only to be armed, but disciplined; to which end a uniform and well-digested plan is requisite; and their safety and interest require that they should promote such manufactories as tend to render them independent of others for essential, particularly military, supplies.”","GEORGE WASHINGTON"],
+			"item1":["https://www.youtube.com/embed/lYSw297IgBY","RED SKELTON'S PLEDGE OF ALLEGIANCE"],
+			"item2":["https://www.youtube.com/embed/Wxc6iqRC-n8","MARTIN LUTHER KING SPEECH"],
+			"item3":["<i class='fa-solid fa-quote-left'></i>","“Nothing can now be believed which is seen in a newspaper. truth itself becomes suspicious by being put into that polluted vehicle.","THOMAS JEFFERSON TO JOHN NORVELL, JUNE 11, 1807"],
+			"item4":["<i class='fa-solid fa-quote-left'></i>","I, however, place economy among the first and most important republican virtues, and public debt as the greatest of the dangers to be feared.","THOMAS JEFFERSON TO WILLIAM PLUMER, JULY 21, 1816"],
+			"item5":["<i class='fa-solid fa-quote-left'></i>","Bigotry is the disease of ignorance, of morbid minds; enthusiasm of the free and buoyant. education & free discussion are the antidotes of both.","THOMAS JEFFERSON TO JOHN ADAMS, AUGUST 1, 1816"],
+			"item6":["<i class='fa-solid fa-quote-left'></i>","“There are more instances of the abridgment of the freedom of the people by gradual and silent encroachments of those in power than by violent and sudden usurpations.”","JAMES MADISON"],
+			"item7":["<i class='fa-solid fa-quote-left'></i>","“The advancement and diffusion of knowledge is the only guardian of true liberty.”","JAMES MADISON"],
+			"item8":["<i class='fa-solid fa-quote-left'></i>","“If freedom of speech is taken away, then dumb and silent we may be led, like sheep to the slaughter.”","GEORGE WASHINGTON"]
+		}
+		},
+		{
+			"icon":["<i class='fa-solid fa-user-tie'></i>","<i class='fa-solid fa-hand-holding-dollar'></i>","<i class='fa-solid fa-user-check'></i>","<i class='fa-solid fa-microphone'></i>"],
+			"number":[10,20,10,30],
+			"heading":["VOLUNTARIES","DONATORS","MEMBERS","CAMPAIGNS"]
+		},
+		{
+			"col1":["<i class='fa-brands fa-twitter'></i>"],
+			"col2":{
+			"icon":["<i class='fa-brands fa-twitter'></i>","<i class='fa-brands fa-facebook-f'></i>","<i class='fa-brands fa-google-plus-g'></i>"],
+			"numbers":[200,499,399],
+			"text":["Follower","Friends","Circle"]
+		}
+		},
+		{
+			"heading":"RESPONSIBLE TEAM",
+			"para":"Our team will fight with you and for you, we are dedicated Americans and love all Americans. Please provide feedback and let us know how we can make this site better. Thank you for being on Republic Freedom Party.",
+			"card":{
+				"cardImg":["image/card_img1.jpg","image/card_img2.png","image/card_img3.png","image/card_img4.png"],
+				"cardHeading":["Joe Cooper","Name","Name","Name"],
+				"cardText":["President of Party","Designation","Designation","Designation"]
+			},
+			"cardHover":["<i class='fa-brands fa-twitter'></i>","<i class='fa-brands fa-facebook-f'></i>","<i class='fa-brands fa-google-plus-g'></i>","<i class='fa-brands fa-linkedin-in'></i>"]
+		},
+		{
+			"heading":"FREEDOM FIGHTERS",
+			"para":"Sign up today to become a Freedom Fighter for as little as a $10.00 donation. All portions of your proceeds will go toward keeping Republic Freedom Party up and running and also will support helping elect true American Conservatives who will fight for this country and you! If you would like to sign up as a Freedom Fighter for Republic Freedom Party, click the tab below to donate and join the Freedom Fighter Club!",
+			"link1":"Join Now !",
+			"link2":"Donate !"
+		},
+		{
+			"heading":"FREEDOM START HERE",
+			"text":"Click below !!",
+			"button":"Discover !"
+		},
+		{
+			"heading":"REPUBLIC FREEDOM PARTY BLOG",
+			"link":"View All",
+			"card":{
+				"cardImg":["image/card2_img1.jpg","image/card2_img2.jpg","image/card2_img3.jpg"],
+				"cardHeading":["By Joe Cooper, Fri 01 Apr, 21","By Joe Cooper, Tue 28 Mar, 21","By Joe Cooper, Mon 20 Mar, 21"],
+				"cardText":["Progressive caucus chair says Senate must eliminate the filibuster or override parliamentarian","Progressive caucus chair says Senate must eliminate the filibuster or override parliamentarian","Michigan voting rights battle looms as Republicans plan to side-step Whitmer veto"]
+			}
+		},
+		{
+			"heading":"GET IN TOUCH",
+			"para":"Feel free to tell what you think about us! (Just an idea we can pull this out)",
+			"link":"send message"
+		},
+		{
+			"heading":"You can follow us on social",
+			"smIcon":["<i class='fa-brands fa-facebook-f'></i>","<i class='fa-brands fa-twitter'></i>","<i class='fa-brands fa-google-plus-g'></i>","<i class='fa-brands fa-square-instagram'></i>"],
+			"copyright1":"<i class='fa-regular fa-copyright'></i>  No one can use any depiction of Republic Freedom Party Logo or Statements without consent of Republic Freedom Party.",
+			"copyright2":"<i class='fa-regular fa-copyright'></i> Logo All Right Reserved"
+		}
+	],
+	"AbouPage":
+	[
+		{
+			"header":["image/logo.svg","REPUBLIC FREEDOM PARTY"],
+			"nav":["HOME","ABOUT","MISSION","STORIES","BLOG","CONTACT","<i class='fa-solid fa-user'></i>"],
+			"section":"ABOUT US"
+		},
+		{
+			"heading":"ABOUT OUR LOGO",
+			"para1":"1. The 13 stars signify the original 13 colonies and the beginning of our nation.",
+			"para2":"2. The fireworks represent our Independence Day, the 4th of July. The birth of our nation.",
+			"para3":"3. The eagle signifies freedom (as we soar, and can navigate as we choose)",
+			"para4":"4. The spear signifies charging ahead against all odds.",
+			"para5":"5. The red and blue signifies that we (all political parties) are one and have to be unitied for the good of our nation.",
+			"para6":"6. The circle represents we are all in this together.",
+			"para7":"Our country is more important than any single one of us. It is up to us to preserve it, we are the light in the darkness, and we must take responsibility to preserve this great nation."
+		},
+		{
+			"heading":"ABOUT REPUBLIC FREEDOM PARTY",
+			"para1":"<b>Republic Freedom Party (RFP) </b>We believe in the ideals of our founding fathers like Thomas Jefferson whose ideals are expressed in the deceleration of independence where he said",
+			"para2":"“We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty the pursuit of Happiness. That to secure these rights, Governments are among Men deriving their just powers from the consent of the governed.”",
+			"para3":"This ideal is echoed in the United States Constitution, The bill of rights, and in the immortal words of Abraham Lincoln in his Gettysburg Address during this nations civil war",
+			"para4":"“The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us -- that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion -- that we here highly resolve that these dead shall not have died in vain -- that this nation, under God, shall have a new birth of freedom -- and that government of the people, by the people, for the people, shall not perish from the earth.”",
+			"para5":"” We the patriotic members of the Republic Freedom Party stand devoted to defend these ideals. We believe in freedom, free speech, the second amendment and the constitution as written. We believe that free thought, different ideas,conversation and debate further the cause of a free society and democracy. We do not discriminate. We reject hate and bigotry."
+		},
+		{
+			"col1":{
+				"heading":"OVERVIEW",
+				"para":"Republic Freedom Party is an extension of each and every American who seeks to preserve our way of life, secure our freedoms, and wants to ensure that this Republic stands as a sovereign Nation for the test of time.",
+				"smIcon":["<i class='fa-brands fa-facebook-f'></i>","<i class='fa-brands fa-twitter'></i>","<i class='fa-brands fa-google-plus-g'></i>","<i class='fa-brands fa-linkedin-in'></i>","<i class='fa-brands fa-tumblr'></i>"]
+			},
+			"col2":{
+				"video":"<iframe width='560' height='315' src='https://www.youtube.com/embed/pWcez2OwT9s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>",
+				"videoLink":"https://www.youtube.com/watch?v=pWcez2OwT9s"
+			}
+		},
+		{
+			"heading":"GET IN TOUCH",
+			"para":"Feel free to tell what you think about us! (Just an idea we can pull this out)",
+			"link":"send message"
+		},
+		{
+			"col1":{
+				"map":"<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3441.0834553537857!2d-86.632183!3d30.405374000000002!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88913ec55aac0bc7%3A0xd6065e25a6d480cf!2s308%20Miracle%20Strip%20Pkwy%20SW%20%235d%2C%20Fort%20Walton%20Beach%2C%20FL%2032548%2C%20USA!5e0!3m2!1sen!2sin!4v1676711610177!5m2!1sen!2sin' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+			},
+			"col2":{
+				"heading1":"Head Office",
+				"para1":"308 Miracle Strip Parkway SW,'<br>'Unit 5 D,'<br>'Fort Walton Beach FL,'<br>'32548",
+				"heading2":"Email",
+				"para2":"repulicfreedomparty@outlook.com"
+			}
+		},
+		{
+			"heading":"You can follow us on social",
+			"smIcon":["<i class='fa-brands fa-facebook-f'></i>","<i class='fa-brands fa-twitter'></i>","<i class='fa-brands fa-google-plus-g'></i>","<i class='fa-brands fa-square-instagram'></i>"]
+		}
+	],
+	"missionPage":
+	[
+		{
+			"header":["image/logo.svg","REPUBLIC FREEDOM PARTY"],
+			"nav":["HOME","ABOUT","MISSION","STORIES","BLOG","CONTACT","<i class='fa-solid fa-user'></i>"],
+			"section":"OUR MISSION"
+		},
+		{
+			"heading":"MY MISSION AND VISION",
+			"para1":"The<b> Republican Freedom Party</b> is for the people, by the people and founded by Patriots. We have been, and are a part of the greatest nation on earth, yet our leaders have let us down. We have been blessed with the freedom that secures us unalienable rights such as life, liberty and the pursuit of happiness, and we intend to secure it for future generations.",
+			"para2":"This is the foundation of our Nation, the truth that all men and women are created equal and many have fought and died to pursue, keep, protect and secure our liberty for almost 250 years.",
+			"para3":"Now in absence of leadership, loyalty and Patriotism, to which many have sacrificed for, it is our mission to ensure that this Nation remains the voice of the people, by the people, and for the people. That all have freedom, and that we will we remain a beacon of hope for all. We are the best the world has to give, so we cannot give up!",
+			"para4":"Join us today as we seek to respect what our forefathers set out to build. They sacrificed for this country, because they believed in this Republic, now it is our turn. We the Patriots, who shall be so brave, shall stand so tall!",
+			"para5":"It is time to stand for America, and it is time to stand for each other; we all are Patriots, so let’s stand together and take this country back! Stand tall and PATRIOT UP!!!"
+		},
+		{
+			"card":{
+				"cardIcon":["<i class='fa-solid fa-hand-holding-dollar'></i>","<i class='fa-solid fa-heart-pulse'></i>","<i class='fa-solid fa-share-nodes'></i>","<i class='fa-solid fa-graduation-cap'></i>","<i class='fa-solid fa-house'></i>","<i class='fa-solid fa-globe'></i>"],
+				"cardHeading":["ECONOMIC","MEDICAL","SOCIAL","EDUCATION","FAMILY","LAW ENFORCEMENT/MILITARY"],
+				"cardPara":["Republic Freedom Party believes in a free market and capitalism. Capitalism has brought millions out of poverty and is the foundation of the American dream, which anyone with the capacity and drive can build the life they deserve and want. America has and always will focus on innovation and the continue to be the leader of the free world.","Republic Freedom Party believes that all Americans should have access to healthcare. This is already a staple of the USA, that no man or woman can be denied healthcare in an emergency situation. However we believe that healthcare needs to be cheaper and more accessible for all Americans. There is no need for any family to go bankrupt over medical bills. We will always fight to help families pay less for medical bills and prescriptions.","Republic Freedom Party believes in free speech and dialogue. You do not have to be a conservative, liberal or an independent to share here. We love all Americans, and we support free thought and know that healthy debate only results in a more united forum. Please keep your comment clean and respectful. We respect life and liberty, you should too.","Republic Freedom Party believes that all parents, students and persons should have access and ability to achieve any educational goal that they peruse. School choice is important.","Republic Freedom Party believes in the family nucleus. Love one another, and take your vows serious.","Republic Freedom Party vigorously defends and loves our law enforcement and military. They are the peacekeepers. We will always back the blue and our defenders of this great nation!"]
+			}
+		},
+		{
+			"heading":"GET IN TOUCH",
+			"para":"Feel free to tell what you think about us! (Just an idea we can pull this out)",
+			"link":"send message"
+		},
+		{
+			"col1":{
+				"map":"<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3441.0834553537857!2d-86.632183!3d30.405374000000002!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88913ec55aac0bc7%3A0xd6065e25a6d480cf!2s308%20Miracle%20Strip%20Pkwy%20SW%20%235d%2C%20Fort%20Walton%20Beach%2C%20FL%2032548%2C%20USA!5e0!3m2!1sen!2sin!4v1676711610177!5m2!1sen!2sin' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+			},
+			"col2":{
+				"heading1":"Head Office",
+				"para1":"308 Miracle Strip Parkway SW,'<br>'Unit 5 D,'<br>'Fort Walton Beach FL,'<br>'32548",
+				"heading2":"Email",
+				"para2":"repulicfreedomparty@outlook.com"
+			}
+		},
+		{
+			"heading":"You can follow us on social",
+			"smIcon":["<i class='fa-brands fa-facebook-f'></i>","<i class='fa-brands fa-twitter'></i>","<i class='fa-brands fa-google-plus-g'></i>","<i class='fa-brands fa-square-instagram'></i>"]
+		}
+	],
+	"StoriesPage":
+	[
+		{
+			"header":["image/logo.svg","REPUBLIC FREEDOM PARTY"],
+			"nav":["HOME","ABOUT","MISSION","STORIES","BLOG","CONTACT","<i class='fa-solid fa-user'></i>"],
+			"section":"REPUBLIC FREEDOM PARTY STORY"
+		},
+		{
+			"heading":"A LITTLE STORY",
+			"para1":"Republic Freedom Party started off as a thought of bringing Americans together. We believe in each other and we believe in this country! No matter where you grow up, or where raised, this is one nation under God for all, a place that we all have a chance to be what we strive for in our life.",
+			"para2":"Republic Freedom Party believes in you and we believe in the USA, our freedom, and liberty, so join us today and welcome to the <b>Republic Freedom Party</b>."
+		},
+		{
+			"heading":"GET IN TOUCH",
+			"para":"Feel free to tell what you think about us! (Just an idea we can pull this out)",
+			"link":"send message"
+		},
+		{
+			"col1":{
+				"map":"<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3441.0834553537857!2d-86.632183!3d30.405374000000002!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88913ec55aac0bc7%3A0xd6065e25a6d480cf!2s308%20Miracle%20Strip%20Pkwy%20SW%20%235d%2C%20Fort%20Walton%20Beach%2C%20FL%2032548%2C%20USA!5e0!3m2!1sen!2sin!4v1676711610177!5m2!1sen!2sin' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+			},
+			"col2":{
+				"heading1":"Head Office",
+				"para1":"308 Miracle Strip Parkway SW,'<br>'Unit 5 D,'<br>'Fort Walton Beach FL,'<br>'32548",
+				"heading2":"Email",
+				"para2":"repulicfreedomparty@outlook.com"
+			}
+		},
+		{
+			"heading":"You can follow us on social",
+			"smIcon":["<i class='fa-brands fa-facebook-f'></i>","<i class='fa-brands fa-twitter'></i>","<i class='fa-brands fa-google-plus-g'></i>","<i class='fa-brands fa-square-instagram'></i>"]
+		}
+	],
+	"BlogPage":
+	[
+		{
+			"header":["image/logo.svg","REPUBLIC FREEDOM PARTY"],
+			"nav":["HOME","ABOUT","MISSION","STORIES","BLOG","CONTACT","<i class='fa-solid fa-user'></i>"],
+			"section":"REPUBLIC FREEDOM PARTY '<br>' BLOG"
+		},
+		{
+			"col1":{
+				"map":"<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3441.0834553537857!2d-86.632183!3d30.405374000000002!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88913ec55aac0bc7%3A0xd6065e25a6d480cf!2s308%20Miracle%20Strip%20Pkwy%20SW%20%235d%2C%20Fort%20Walton%20Beach%2C%20FL%2032548%2C%20USA!5e0!3m2!1sen!2sin!4v1676711610177!5m2!1sen!2sin' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+			},
+			"col2":{
+				"heading1":"Head Office",
+				"para1":"308 Miracle Strip Parkway SW,'<br>'Unit 5 D,'<br>'Fort Walton Beach FL,'<br>'32548",
+				"heading2":"Email",
+				"para2":"repulicfreedomparty@outlook.com"
+			}
+		},
+		{
+			"heading":"You can follow us on social",
+			"smIcon":["<i class='fa-brands fa-facebook-f'></i>","<i class='fa-brands fa-twitter'></i>","<i class='fa-brands fa-google-plus-g'></i>","<i class='fa-brands fa-square-instagram'></i>"]
+		}
+	]
+}
