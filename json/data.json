@@ -27,8 +27,8 @@
 		{
 			"carousel":{
 			"itemActive":["<i class='fa-solid fa-quote-left'></i>","“A free people ought not only to be armed, but disciplined; to which end a uniform and well-digested plan is requisite; and their safety and interest require that they should promote such manufactories as tend to render them independent of others for essential, particularly military, supplies.”","GEORGE WASHINGTON"],
-			"item1":["https://www.youtube.com/embed/lYSw297IgBY","RED SKELTON'S PLEDGE OF ALLEGIANCE"],
-			"item2":["https://www.youtube.com/embed/Wxc6iqRC-n8","MARTIN LUTHER KING SPEECH"],
+			"item1":["<iframe width='560' height='315' src='https://www.youtube.com/embed/lYSw297IgBY' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>","RED SKELTON'S PLEDGE OF ALLEGIANCE"],
+			"item2":["<iframe width='560' height='315' src='https://www.youtube.com/embed/Wxc6iqRC-n8' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>","MARTIN LUTHER KING SPEECH"],
 			"item3":["<i class='fa-solid fa-quote-left'></i>","“Nothing can now be believed which is seen in a newspaper. truth itself becomes suspicious by being put into that polluted vehicle.","THOMAS JEFFERSON TO JOHN NORVELL, JUNE 11, 1807"],
 			"item4":["<i class='fa-solid fa-quote-left'></i>","I, however, place economy among the first and most important republican virtues, and public debt as the greatest of the dangers to be feared.","THOMAS JEFFERSON TO WILLIAM PLUMER, JULY 21, 1816"],
 			"item5":["<i class='fa-solid fa-quote-left'></i>","Bigotry is the disease of ignorance, of morbid minds; enthusiasm of the free and buoyant. education & free discussion are the antidotes of both.","THOMAS JEFFERSON TO JOHN ADAMS, AUGUST 1, 1816"],
